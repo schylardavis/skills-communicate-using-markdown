@@ -7,3 +7,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Completing steps in lesson
+- [ ] Finish step 3
+- [ ] Complete step 4 - add list
