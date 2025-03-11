@@ -3,3 +3,7 @@
 #### Here is a third header
 
 ![image of SecurityKnightcat](https://octodex.github.com/images/securityknightocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
